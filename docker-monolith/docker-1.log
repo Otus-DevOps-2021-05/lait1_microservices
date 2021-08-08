@@ -1,0 +1,5 @@
+REPOSITORY                                                        TAG                                  IMAGE ID       CREATED              SIZE
+dexter/ubuntu-tmp-file                                            latest                               19d2ed2594ad   About a minute ago   63.1MB
+ubuntu                                                            18.04                                39a8cfeef173   12 days ago          63.1MB
+yandex/clickhouse-server                                          21.7.3                               3bf549dc99c2   3 weeks ago          679MB
+hello-world                                                       latest                               d1165f221234   5 months ago         13.3kB
